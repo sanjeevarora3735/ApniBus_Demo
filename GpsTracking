@@ -1,39 +1,31 @@
-class Bus {
-  String busNumber;
-  Route route;
-  String busLocation;
-  bool hasGpsInstalled;
-
-  Bus({
-    required this.busNumber,
-    required this.route,
-    required this.busLocation,
-    required this.hasGpsInstalled,
-  });
-
-  factory Bus.fromJson(Map<String, dynamic> json) {
-    return Bus(
-      busNumber: json['BusNumber'],
-      route: Route.fromJson(json['Route']),
-      busLocation: json['BusLocation'],
-      hasGpsInstalled: json['HasGpsInstalled'],
-    );
-  }
-}
-
-class Route {
-  String to;
-  String from;
-
-  Route({
-    required this.to,
-    required this.from,
-  });
-
-  factory Route.fromJson(Map<String, dynamic> json) {
-    return Route(
-      to: json['to'],
-      from: json['from'],
-    );
-  }
+{
+  "busData": [
+    {
+      "BusNumber": "ABC123",
+      "Route": {
+        "to": "Station A",
+        "from": "Station B"
+      },
+      "BusLocation": "1234 Elm St, City",
+      "HasGpsInstalled": true
+    },
+    {
+      "BusNumber": "DEF456",
+      "Route": {
+        "to": "Station C",
+        "from": "Station D"
+      },
+      "BusLocation": "5678 Oak St, Town",
+      "HasGpsInstalled": false
+    },
+    {
+      "BusNumber": "GHI789",
+      "Route": {
+        "to": "Station E",
+        "from": "Station F"
+      },
+      "BusLocation": "9101 Maple St, Village",
+      "HasGpsInstalled": true
+    }
+  ]
 }
