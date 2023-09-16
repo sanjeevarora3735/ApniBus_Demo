@@ -1,0 +1,349 @@
+{
+  "Ticket Overview": {
+    "Total Tickets": {
+      "Online": {
+        "Half Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Full Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Student": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Woman": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Luggage": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Child": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        }
+      },
+      "Offline": {
+        "Half Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Full Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Student": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Woman": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Luggage": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Child": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        }
+      },
+      "Total": {
+        "Half Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Full Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Student": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Woman": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Luggage": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Child": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        }
+      }
+    },
+    "Total Money": {
+      "Online": {
+        "Half Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Full Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Student": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Woman": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Luggage": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Child": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        }
+      },
+      "Offline": {
+        "Half Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Full Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Student": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Woman": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Luggage": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Child": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        }
+      },
+      "Total": {
+        "Half Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Full Ticket": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Student": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Woman": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Luggage": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        },
+        "Child": {
+          "Total Ticket": "_contain_total_ticket_",
+          "Total Pricing": "_contain_total_pricing_"
+        }
+      }
+    }
+  },
+  "Detailed Trip": [
+    {
+      "Stop_Name": "_contains_stop_name_",
+      "Total Tickets": {
+        "Online": "_online_tickets_",
+        "Offline": "_offline_tickets_"
+      },
+      "Total Amount": {
+        "Online": "_online_amount_",
+        "Offline": "_offline_amount_"
+      },
+      "Having Following Categories": {
+        "Online": {
+          "Half Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Full Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Student": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Woman": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Luggage": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Child": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          }
+        },
+        "Offline": {
+          "Half Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Full Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Student": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Woman": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Luggage": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Child": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          }
+        },
+        "Total": {
+          "Half Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Full Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Student": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Woman": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Luggage": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Child": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          }
+        }
+      }
+    },
+    {
+      "Stop_Name": "_contains_stop_name_",
+      "Total Tickets": {
+        "Online": "_online_tickets_",
+        "Offline": "_offline_tickets_"
+      },
+      "Total Amount": {
+        "Online": "_online_amount_",
+        "Offline": "_offline_amount_"
+      },
+      "Having Following Categories": {
+        "Online": {
+          "Half Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Full Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Student": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Woman": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Luggage": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Child": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          }
+        },
+        "Offline": {
+          "Half Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Full Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Student": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Woman": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Luggage": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Child": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          }
+        },
+        "Total": {
+          "Half Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Full Ticket": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Student": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Woman": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Luggage": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          },
+          "Child": {
+            "Total Ticket": "_contain_total_ticket_",
+            "Total Pricing": "_contain_total_pricing_"
+          }
+        }
+      }
+    }
+    // Additional stops continue here
+  ]
+}
