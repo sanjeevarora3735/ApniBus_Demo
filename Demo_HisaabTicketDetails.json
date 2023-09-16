@@ -3,343 +3,343 @@
     "Total Tickets": {
       "Online": {
         "Half Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Full Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Student": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Woman": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Luggage": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Child": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         }
       },
       "Offline": {
         "Half Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Full Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Student": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Woman": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Luggage": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Child": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         }
       },
       "Total": {
         "Half Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Full Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Student": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Woman": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Luggage": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Child": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         }
       }
     },
     "Total Money": {
       "Online": {
         "Half Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Full Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Student": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Woman": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Luggage": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Child": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         }
       },
       "Offline": {
         "Half Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Full Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Student": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Woman": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Luggage": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Child": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         }
       },
       "Total": {
         "Half Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Full Ticket": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Student": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Woman": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Luggage": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         },
         "Child": {
-          "Total Ticket": "_contain_total_ticket_",
-          "Total Pricing": "_contain_total_pricing_"
+          "Total Ticket": 10,
+          "Total Pricing": 10
         }
       }
     }
   },
   "Detailed Trip": [
     {
-      "Stop_Name": "_contains_stop_name_",
+      "Stop_Name": "Jaipur",
       "Total Tickets": {
-        "Online": "_online_tickets_",
-        "Offline": "_offline_tickets_"
+        "Online": 10,
+        "Offline": 10
       },
       "Total Amount": {
-        "Online": "_online_amount_",
-        "Offline": "_offline_amount_"
+        "Online": 10,
+        "Offline": "10"
       },
       "Having Following Categories": {
         "Online": {
           "Half Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Full Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Student": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Woman": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Luggage": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Child": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           }
         },
         "Offline": {
           "Half Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Full Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Student": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Woman": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Luggage": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Child": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           }
         },
         "Total": {
           "Half Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Full Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Student": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Woman": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Luggage": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Child": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           }
         }
       }
     },
     {
-      "Stop_Name": "_contains_stop_name_",
+      "Stop_Name": "Sri Ganga Nagar",
       "Total Tickets": {
-        "Online": "_online_tickets_",
-        "Offline": "_offline_tickets_"
+        "Online": 10,
+        "Offline": 10
       },
       "Total Amount": {
-        "Online": "_online_amount_",
-        "Offline": "_offline_amount_"
+        "Online": 10,
+        "Offline": "10"
       },
       "Having Following Categories": {
         "Online": {
           "Half Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Full Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Student": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Woman": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Luggage": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Child": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           }
         },
         "Offline": {
           "Half Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Full Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Student": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Woman": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Luggage": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Child": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           }
         },
         "Total": {
           "Half Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Full Ticket": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Student": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Woman": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Luggage": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           },
           "Child": {
-            "Total Ticket": "_contain_total_ticket_",
-            "Total Pricing": "_contain_total_pricing_"
+            "Total Ticket": 10,
+            "Total Pricing": 10
           }
         }
       }
