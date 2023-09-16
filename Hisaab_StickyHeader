@@ -1,0 +1,349 @@
+{
+  "Ticket Overview": {
+    "Total Tickets": {
+      "Online": {
+        "Half Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Full Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Student": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Woman": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Luggage": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Child": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        }
+      },
+      "Offline": {
+        "Half Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Full Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Student": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Woman": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Luggage": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Child": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        }
+      },
+      "Total": {
+        "Half Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Full Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Student": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Woman": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Luggage": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Child": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        }
+      }
+    },
+    "Total Money": {
+      "Online": {
+        "Half Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Full Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Student": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Woman": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Luggage": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Child": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        }
+      },
+      "Offline": {
+        "Half Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Full Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Student": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Woman": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Luggage": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Child": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        }
+      },
+      "Total": {
+        "Half Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Full Ticket": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Student": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Woman": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Luggage": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        },
+        "Child": {
+          "Total Ticket": 10,
+          "Total Pricing": 10
+        }
+      }
+    }
+  },
+  "Detailed Trip": [
+    {
+      "Stop_Name": "Jaipur",
+      "Total Tickets": {
+        "Online": 10,
+        "Offline": 10
+      },
+      "Total Amount": {
+        "Online": 10,
+        "Offline": "10"
+      },
+      "Having Following Categories": {
+        "Online": {
+          "Half Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Full Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Student": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Woman": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Luggage": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Child": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          }
+        },
+        "Offline": {
+          "Half Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Full Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Student": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Woman": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Luggage": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Child": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          }
+        },
+        "Total": {
+          "Half Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Full Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Student": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Woman": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Luggage": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Child": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          }
+        }
+      }
+    },
+    {
+      "Stop_Name": "Sri Ganga Nagar",
+      "Total Tickets": {
+        "Online": 10,
+        "Offline": 10
+      },
+      "Total Amount": {
+        "Online": 10,
+        "Offline": "10"
+      },
+      "Having Following Categories": {
+        "Online": {
+          "Half Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Full Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Student": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Woman": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Luggage": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Child": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          }
+        },
+        "Offline": {
+          "Half Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Full Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Student": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Woman": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Luggage": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Child": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          }
+        },
+        "Total": {
+          "Half Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Full Ticket": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Student": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Woman": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Luggage": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          },
+          "Child": {
+            "Total Ticket": 10,
+            "Total Pricing": 10
+          }
+        }
+      }
+    }
+    // Additional stops continue here
+  ]
+}
