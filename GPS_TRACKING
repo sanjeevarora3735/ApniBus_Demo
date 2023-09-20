@@ -6,8 +6,8 @@
       "from": "Station D"
     },
     "BusLocation": {
-      "latitude": "29.123456789",
-      "longitude": "73.987654321"
+      "latitude": "28.667128",
+      "longitude": "77.184103"
     },
     "HasGpsInstalled": true,
     "IgnitionStatus": true,
