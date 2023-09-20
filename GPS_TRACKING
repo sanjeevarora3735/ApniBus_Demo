@@ -15,6 +15,694 @@
     "OnRoute": false,
     "DistanceToday": 0,
     "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  }, {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "28.667128",
+      "longitude": "77.184103"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
   },
   {
     "BusNumber": "GHI789",
