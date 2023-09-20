@@ -1,0 +1,36 @@
+[
+  {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "29.123456789",
+      "longitude": "73.987654321"
+    },
+    "HasGpsInstalled": true,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T12:34:56Z",
+    "OnRoute": false,
+    "DistanceToday": 0,
+    "LastBusStop": "None"
+  },
+  {
+    "BusNumber": "GHI789",
+    "Route": {
+      "to": "Station E",
+      "from": "Station F"
+    },
+    "BusLocation": {
+      "latitude": "30.987654321",
+      "longitude": "71.123456789"
+    },
+    "HasGpsInstalled": false,
+    "IgnitionStatus": true,
+    "GpsLastSync": "2023-09-20T13:45:00Z",
+    "OnRoute": true,
+    "DistanceToday": 15,
+    "LastBusStop": "Station A"
+  }
+]
