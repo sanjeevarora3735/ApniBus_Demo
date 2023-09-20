@@ -1,0 +1,26 @@
+[
+  {
+    "BusNumber": "DEF456",
+    "Route": {
+      "to": "Station C",
+      "from": "Station D"
+    },
+    "BusLocation": {
+      "latitude": "29.123456789",
+      "longitude": "73.987654321"
+    },
+    "HasGpsInstalled": "true"
+  },
+  {
+    "BusNumber": "GHI789",
+    "Route": {
+      "to": "Station E",
+      "from": "Station F"
+    },
+    "BusLocation": {
+      "latitude": "30.987654321",
+      "longitude": "71.123456789"
+    },
+    "HasGpsInstalled": "false"
+  }
+]
